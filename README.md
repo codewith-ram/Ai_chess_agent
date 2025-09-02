@@ -1,4 +1,4 @@
-# ♜ ChessMaster AI: Advanced Chess Engine
+# ♜ ChessMaster AI: Advanced Chess 
 
 An advanced Chess game system featuring two AI chess engines competing against each other using Autogen in a Streamlit application. Built with robust move validation and game state management.
 
@@ -35,7 +35,7 @@ An advanced Chess game system featuring two AI chess engines competing against e
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/codewith-ram/Ai_chess_agent
 ``
 
 2. **Install dependencies**:
@@ -92,4 +92,5 @@ An advanced Chess game system featuring two AI chess engines competing against e
 - If you see an error about the API key, ensure it's correctly entered in the sidebar
 - For connection issues, check your internet connection and OpenAI API status
 - If the game freezes, try reducing the number of turns or restarting the application
+
 
